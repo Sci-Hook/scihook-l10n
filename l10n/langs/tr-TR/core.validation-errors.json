@@ -3,7 +3,7 @@
     "username": {
         "min_length": "Username must be at least #{required} characters.",
         "max_length": "Username must be at most #{required} characters.",
-        "undefined": "Username can not be empty.",
+        "undefined": "Kullanıcı adı boş bırakılamaz.",
         "regex": "Username can only contain letters and numbers.",
         "exist_data": "This username is already registered in the system."
     },
