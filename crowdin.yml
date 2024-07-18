@@ -1,0 +1,3 @@
+files:
+  - source: /l10n/en-US
+    translation: /l10n/langs/%locale%/%file_name%.%file_extension%
