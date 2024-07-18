@@ -10,10 +10,10 @@
     "password": {
         "min_length": "Password must be at least #{required} characters.",
         "max_length": "Password must be at most #{required} characters.",
-        "undefined": "You must enter a password."
+        "undefined": "Bir parola girmeniz gerekmektedir."
     },
     "email": {
-        "undefined": "You must enter an e-mail address.",
+        "undefined": "Bir e-posta adresi girmeniz gerekmektedir.",
         "max_length": "E-mail address must be at most #{required} characters.",
         "services": "This e-mail provider is not allowed on Sci-Hook. Please try to sign up with another e-mail provider.",
         "invalid": "E-mail address format is incorrect. Please enter in a valid format.",
