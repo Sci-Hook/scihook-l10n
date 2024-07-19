@@ -51,7 +51,7 @@
         "min_length":"Please enter a valid date.",
         "max_length":"Please enter a valid date.",
         "type":"Please select a month.",
-        "values":"Lütfen bir ay seçin"
+        "values":"Please select a month from the list."
     },
     "birthyear":{
         "min_length":"Please enter a valid date.",
