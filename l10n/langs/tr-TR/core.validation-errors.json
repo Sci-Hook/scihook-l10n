@@ -50,7 +50,7 @@
         "min_length": "Lütfen geçerli bir tarih giriniz.",
         "max_length": "Lütfen geçerli bir tarih giriniz.",
         "type": "Lütfen bir ay seçiniz.",
-        "values": "Lütfen bir ay seçin"
+        "values": "Please select a month from the list."
     },
     "birthyear": {
         "min_length": "Lütfen geçerli bir tarih giriniz.",
