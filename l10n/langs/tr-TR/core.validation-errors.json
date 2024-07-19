@@ -42,22 +42,22 @@
         "max_length": "Job must be at most #{required} characters."
     },
     "birhday": {
-        "max_length": "Please enter a valid date.",
-        "min_length": "Please enter a valid date.",
-        "type": "Please enter a day."
+        "max_length": "Lütfen geçerli bir tarih giriniz.",
+        "min_length": "Lütfen geçerli bir tarih giriniz.",
+        "type": "Lütfen bir gün giriniz."
     },
     "birthmonth": {
-        "min_length": "Please enter a valid date.",
-        "max_length": "Please enter a valid date.",
-        "type": "Please select a month.",
+        "min_length": "Lütfen geçerli bir tarih giriniz.",
+        "max_length": "Lütfen geçerli bir tarih giriniz.",
+        "type": "Lütfen bir ay seçiniz.",
         "values": "Lütfen bir ay seçin"
     },
     "birthyear": {
-        "min_length": "Please enter a valid date.",
-        "max_length": "Please enter a valid date.",
-        "type": "Please enter a year."
+        "min_length": "Lütfen geçerli bir tarih giriniz.",
+        "max_length": "Lütfen geçerli bir tarih giriniz.",
+        "type": "Lütfen bir yıl giriniz."
     },
     "verify-password": {
-        "not_match": "Passwords do not match. Please check."
+        "not_match": "Şifreler birbiriyle eşleşmiyor. Lütfen kontrol ediniz."
     }
 }
