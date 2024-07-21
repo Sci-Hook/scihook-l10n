@@ -1,5 +1,0 @@
-{
-    "$variable-name": "response-messages",
-    "validation-error": "Invalid values.",
-    "authorized": "Your token is valid."
-}
