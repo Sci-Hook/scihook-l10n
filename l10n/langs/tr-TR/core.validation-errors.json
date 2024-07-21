@@ -5,7 +5,7 @@
         "max_length": "Username must be at most #{required} characters.",
         "undefined": "Kullanıcı adı boş bırakılamaz.",
         "regex": "Username can only contain letters and numbers.",
-        "exist_data": "This username is already registered in the system."
+        "exist_data": "Bu kullanıcı adı sistemde zaten kayıtlı."
     },
     "password": {
         "min_length": "Password must be at least #{required} characters.",
