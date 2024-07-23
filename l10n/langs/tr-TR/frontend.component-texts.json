@@ -35,7 +35,7 @@
         "fo_34": "Help us support more languages"
     },
     "main_header": {
-        "he_1": "Homepage",
+        "he_1": "Anasayfa",
         "he_2": "Projects",
         "he_3": "Tools",
         "he_4": "Misyonumuz",
@@ -43,10 +43,10 @@
         "he_6": "Geliştirici",
         "he_7": "Ekibimiz",
         "he_8": "Site Teması",
-        "he_9": "Support Us"
+        "he_9": "Support"
     },
     "amc_sidebar": {
-        "si_1": "Homepage",
+        "si_1": "Home",
         "si_2": "Account settings",
         "si_3": "Privacy and security",
         "si_4": "Hesap istatistikleri",
@@ -58,7 +58,7 @@
         "si_10": "Developer Center",
         "si_11": "Gönüllülük Merkezi",
         "si_12": "Support Center",
-        "si_13": "Return to homepage",
+        "si_13": "Anasayfaya dön",
         "si_14": "Geri bildirim"
     },
     "policies_header": {
