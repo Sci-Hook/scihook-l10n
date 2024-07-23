@@ -3,6 +3,7 @@
         "scihook_main_twitter": "https://twitter.com/SciHook",
         "scihook_main_youtube": "https://www.youtube.com/@Sci-Hook",
         "scihook_main_instagram": "https://www.instagram.com/SciHook",
-        "scihook_main_threads": "https://www.threads.net/@SciHook"
+        "scihook_main_threads": "https://www.threads.net/@SciHook",
+        "scihook_main_mastodon": "https://mastodon.social/@SciHook"
     }
 }

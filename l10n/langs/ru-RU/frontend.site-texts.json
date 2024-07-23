@@ -46,8 +46,7 @@
     },
     "login_page_2": {
         "lo_5": "Girişinizi Doğrulayın",
-        "lo_6": "E-posta adresinize gelen kodu giriniz.",
-        "lo_7": "E-posta adresine yeniden kod <a class='scihook-link' href=''>gönder.</a>"
+        "lo_6": "E-posta adresinize gelen kodu giriniz."
     },
     "account_management_center": {
         "amc_1": "Hesap geçmişi",
@@ -133,7 +132,8 @@
         "ps_46": "Sci-Hook hesabınızı dondurun",
         "ps_47": "Hesabınızı, <b>istediğiniz tarihte</b> geri açmak üzere dondurursunuz",
         "ps_48": "Sci-Hook hesabınızı silin",
-        "ps_49": "Hesabınızla ilişkili her şeyi <b>kalıcı olarak</b> silersiniz"
+        "ps_49": "Hesabınızla ilişkili her şeyi <b>kalıcı olarak</b> silersiniz",
+        "ps_50": "Logout of all devices where my account is active (including this session)."
     },
     "account_settings": {
         "set_1": "Temel hesap bilgileri",
@@ -155,6 +155,12 @@
         "set_17": "Hesap bilgilerinizi güncelleyebilir, yeni bilgiler ekleyebilir ve silebilirsiniz. Hesabınızı kişiselleştirmekte özgürsünüz!",
         "set_18": "Kullanıcı adı cart curttır",
         "set_19": "Kullanıcı adı cart curttır",
+        "set_20": "Hesap gizliliğinizi değiştirin",
+        "set_21": "<i class='fa-solid fa-circle-info'></i> Hesap parolanızı girerek, hesabınızın gizlilik ayarlarını değiştirebilirsiniz. Bir ay içerisinde bu ayarı en fazla 5 kere değiştirebilirsiniz.",
+        "set_22": "Kullanıcı adınızı değiştirin",
+        "set_23": "<i class='fa-solid fa-circle-info'></i> Hesabınızda kullanmak istediğiniz yeni kullanıcı adınızı giriniz.",
+        "set_24": "E-posta adresinizi değiştirin",
+        "set_25": "<i class='fa-solid fa-circle-info'></i> Parolanızı girdip e-posta adresinizi değiştirme isteği gönderdikten sonra, işleminizi tamamalamak için yeni bir sayfaya gönderileceksiniz.",
         "orcid_text": "Hesabınıza ORCID ID ekleyerek akademik çalışmalarınızı diğer kişiler ile paylaşabilirsiniz.",
         "scholar_text": "Scholar hesabınızı ekleyerek akademik çalışmalarınızı diğer kişiler ile paylaşabilirsiniz.",
         "rg_text": "ResearchGate hesabınızı ekleyerek akademik çalışmalarınızı diğer kişiler ile paylaşabilirsiniz.",
@@ -172,30 +178,44 @@
     },
     "email_verification": {
         "ev_1": "E-Posta Adresinizi Doğrulayın",
-        "ev_2": "E-posta adresinizin size ait olduğunu onaylayın.",
-        "ev_3": "E-posta adresine yeniden kod"
+        "ev_2": "E-posta adresinizin size ait olduğunu onaylayın."
     },
-    "account_recovery_program": {
-        "arp_1": "Yasal Bilgilendirme Metni",
-        "arp_2": "Vermiş olduğunuz her bilgi hesap kurtarma sürecinizde kullanılacaktır ve sonrasında yukarıda belirtmiş olduğumuz yasal bilgilendirme metni kapsamında veri tabanlarımızdan silinecektir. Vermiş olduğunuz bilgiler <a class='scihook-link' href=''>Gizlilik Politikası</a> ve <a class='scihook-link' href=''>Kullanım Koşulları</a> kapsamında işlenecektir ve sadece Sci-Hook yetkilileri ile paylaşılacaktır. Bu formu gönderek bunu kabul etmiş sayılırsınız.",
-        "arp_3": "Bu e-posta adresine kurtarma süreci ile ilgili bilgilendirmeler gidecektir. Lütfen aktif olarak kullandığınız bir e-posta adresi giriniz, sizinle buradan iletişime geçeceğiz.",
-        "arp_4": "Yüzünüzü gösteren bir fotoğraf",
-        "arp_5": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis iusto incidunt commodi dolorem, eligendi.",
-        "arp_6": "Hesap bilgileri",
-        "arp_7": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis iusto incidunt commodi dolorem, eligendi.",
-        "arp_8": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Itaque, asperiores.",
-        "arp_9": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis iusto incidunt commodi dolorem, eligendi.",
-        "arp_10": "Kullanıcı adı cart curttır",
-        "arp_11": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis iusto incidunt commodi dolorem, eligendi.",
-        "arp_12": "Kişisel bilgiler",
-        "arp_13": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis iusto incidunt commodi dolorem, eligendi.",
-        "arp_14": "Kullanıcı adı cart curttır",
-        "arp_15": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis iusto incidunt commodi dolorem, eligendi.",
-        "arp_16": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis iusto incidunt commodi dolorem, eligendi.",
-        "arp_17": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis iusto incidunt commodi dolorem, eligendi.",
-        "arp_18": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis iusto incidunt commodi dolorem, eligendi.",
-        "arp_19": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis iusto incidunt commodi dolorem, eligendi.",
-        "arp_20": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis iusto incidunt commodi dolorem, eligendi."
+    "email_change": {
+        "ec_1": "E-Posta Adresinizi Değiştirin",
+        "ec_2": "Yeni e-posta adresinizi girin ve hesabınıza bağlı olan e-posta adresinizi değiştirin.",
+        "ec_3": "Yeni e-posta adresiniz",
+        "ec_4": "Hesabınızda kullanmak istediğiniz yeni e-posta adresinizi girin.",
+        "ec_5": "Şu anki e-postanıza gelen kod",
+        "ec_6": "Şu anki e-posta adresinize gelen doğrulama kodunu girin ve işlemi onaylayın."
+    },
+    "password_recovery": {
+        "pr_1": "Parolanızı Sıfırlayın",
+        "pr_2": "E-posta adresinize gelen kodu girin ve yeni bir parola belirleyin.",
+        "pr_3": "Hesabınıza bağlı olan e-posta adresinize gelen doğrulama kodunu giriniz."
+    },
+    "change_unverified_email": {
+        "cue_1": "E-Posta Adresinizi Değiştirin",
+        "cue_2": "Hatalı girmiş olduğunuz e-posta adresinizi değiştirin ve doğrulayın."
+    },
+    "get_password_recovery": {
+        "gpr_1": "E-Posta Adresinizi Aratın",
+        "gpr_2": "Size doğrulama kodu göndermemiz için kayıt olurken kullandığınız e-postayı girin."
+    },
+    "policies_page": {
+        "archive_title": "<i class='fa-solid fa-scale-balanced'></i> Bu Sürüm Yürürlükten Kalkmıştır, Bu Bir Arşiv Kaydıdır! ",
+        "archive_text": "Erişmiş olduğunuz bu sürüm; ilgili yasal metnin arşivlenmiş, eski bir sürümüdür ve artık yürürlükte bulunmamaktadır. Sci-Hook, şeffaflık amacıyla yasal metinlerin arşivlenmiş, eski sürümlerini kullanıcıların erişiminde tutmaya devam etmektedir. <b>Lütfen ilgili yasal metnin yürürlükte olan sürümüne tabi olduğunuzu ve yasal bir durumda, ilgili metnin yürürlükte olan sürümünün geçerli olacağını unutmayınız.</b>",
+        "pp_title": "Gizlilik Politikası",
+        "pp_text": "Sci-Hook'un verilerinizi nasıl topladığını, nasıl işlediğini ve nasıl koruduğunu öğrenin. Sci-Hook'a erişim sağlayan herkes, Sci-Hook Gizlilik Politikası'na tabidir.",
+        "pp_button": "Politikaya Git",
+        "tou_title": "Kullanım Koşulları",
+        "tou_text": "Sci-Hook, kullanıcılarının Sci-Hook'u nasıl kullanabileceğini ve Sci-Hook'un kullanımı sırasında kullanıcıların ne yapabileceğini belirleyen bir dizi kural ve yönergeye sahiptir. Sci-Hook'a erişim sağlayan herkes, Sci-Hook Kullanım Koşulları'na tabidir.",
+        "tou_button": "Sözleşmeye Git",
+        "cp_title": "Çerez Politikası",
+        "cp_text": "Sistemlerimizi ve hizmetlerimizi nasıl kullandığınızı anlamamıza yardımcı olmak için çerezler ve benzer teknolojiler kullanırız. Çerezlerin nasıl kullanıldığı hakkında detaylı bilgi almak için Çerez Politikası'nı inceleyiniz.",
+        "cp_button": "Politikaya Git",
+        "vp_title": "Gönüllülük Politikası",
+        "vp_text": "Sci-Hook gönüllüler ile varlığını sürdürmektedir. Gönüllüler, Sci-Hook'un gelişimine katkı sağlar ve Sci-Hook'un misyonunu gerçekleştirmesine yardımcı olur. Sci-Hook'a gönüllü olmak isteyen herkes, Sci-Hook Gönüllülük Politikası'na tabidir.",
+        "vp_button": "Politikaya Git"
     },
     "date_of_birth_text": "Doğum tarihiniz"
 }
