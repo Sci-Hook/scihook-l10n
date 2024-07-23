@@ -38,7 +38,8 @@
         "return_legal_text": "Return to Legal Text",
         "next_step": "Continue to Next Step",
         "send_account_recovery_form": "Send Account Recovery Form",
-        "upload_photo": "Upload photo"
+        "upload_photo": "Upload photo",
+        "change_password": "Change Password"
     },
     "placeholders": {
         "optional": "(optional)",
@@ -77,7 +78,12 @@
         "account_name": "Your name specified in the account",
         "account_surname": "Your surname specified in the account",
         "account_creation_date": "Your account creation date",
-        "account_creation_ip": "IP address where you created your account"
+        "account_creation_ip": "IP address where you created your account",
+        "email_code": "E-mail verification code",
+        "new_password": "New password",
+        "confirm_new_password": "Confirm new password",
+        "new_email": "New e-mail address",
+        "new_username": "New username"
     },
     "form_texts": {
         "optional": "(optional)",
@@ -96,7 +102,35 @@
         "personal_informations": "Personal information",
         "address": "Address",
         "social_media_and_contact": "Social media and contact",
-        "add_contact_email": "Add contact e-mail"
+        "add_contact_email": "Add contact e-mail",
+        "resend_code": "Kod gelmedi mi? Yeniden kod <a href='#' after-send='gönderildi' class='scihook-link' send-form='#resend-code'> gönder</a>"
+    },
+    "toasts": {
+        "make_public_account": "Hesabınızı herkese açık hale getirdiniz. Artık profilinizi diğer kullanıcılar görüntüleyebilir.",
+        "make_private_account": "Hesabınızı gizli hale getirdiniz. Artık profilinizi diğer kullanıcılar görüntüleyemez.",
+        "make_public_data": "Bu bilgiyi herkese açık hale getirdiniz. Artık diğer kullanıcılar bu bilgiyi görebilir.",
+        "make_private_data": "Bu bilgiyi gizli hale getirdiniz. Artık diğer kullanıcılar bu bilgiyi göremez.",
+        "failed_update_data": "Bilgiyi güncelleme işlemi başarısız oldu.",
+        "success_update_data": "Bu bilgiyi başarıyla güncellediniz.",
+        "password_changed": "Parolanız başarıyla değiştirildi."
+    },
+    "tooltips": {
+        "if_private_not_changeable": "Bu bilgi, hesabınız gizli olduğu sürece değiştirilemez.",
+        "coming_soon_feat": "Bu özellik çok yakında Sci-Hook'ta!",
+        "coming_soon_page": "Bu sayfa çok yakında Sci-Hook'ta!",
+        "coming_soon": "Çok yakında!"
+    },
+    "dropdowns": {
+        "logout": "Logout",
+        "feedback": "Feedback",
+        "support_center": "Support Center",
+        "manage_account": "Manage account",
+        "site_theme": "Site Theme",
+        "return_home": "Return to homepage",
+        "family_management": "Family Management",
+        "support_articles": "Support articles",
+        "orgs": "Organizations",
+        "change_account": "Change account"
     },
     "genders": {
         "undefined": "I don't want to specify",
@@ -117,6 +151,9 @@
     },
     "project_names": {
         "p_1": "Bilimetri",
-        "p_2": "Meteorology Map"
+        "p_2": "Meteorology Map",
+        "p_3": "Brevurl",
+        "p_4": "Sci-Hook Games",
+        "p_5": "Plotrip"
     }
 }
