@@ -35,7 +35,7 @@
         "fo_34": "Help us support more languages"
     },
     "main_header": {
-        "he_1": "Anasayfa",
+        "he_1": "Homepage",
         "he_2": "Projects",
         "he_3": "Tools",
         "he_4": "Misyonumuz",
@@ -43,22 +43,10 @@
         "he_6": "Geliştirici",
         "he_7": "Ekibimiz",
         "he_8": "Site Teması",
-        "he_9": "Support"
-    },
-    "amc_header": {
-        "he_1": "Change Account",
-        "he_2": "Organizations",
-        "he_3": "Family Management",
-        "he_4": "Support articles",
-        "he_5": "Support Center",
-        "he_6": "Geri bildirim",
-        "he_7": "Return to home",
-        "he_8": "Log out",
-        "he_9": "Site Theme",
-        "he_10": "Support"
+        "he_9": "Support Us"
     },
     "amc_sidebar": {
-        "si_1": "Home",
+        "si_1": "Homepage",
         "si_2": "Account settings",
         "si_3": "Privacy and security",
         "si_4": "Hesap istatistikleri",
@@ -70,8 +58,16 @@
         "si_10": "Developer Center",
         "si_11": "Gönüllülük Merkezi",
         "si_12": "Support Center",
-        "si_13": "Anasayfaya dön",
+        "si_13": "Return to homepage",
         "si_14": "Geri bildirim"
+    },
+    "policies_header": {
+        "po_1": "Policies",
+        "po_2": "Privacy Policy",
+        "po_3": "Terms of Use",
+        "po_4": "Cookie Policy",
+        "po_5": "Volunteering Policy",
+        "po_6": "FAQ"
     },
     "copyright_texts": {
         "main": "&copy; 2023-<script>document.write(new Date().getFullYear())</script> Sci-Hook Org. All rights reserved."
