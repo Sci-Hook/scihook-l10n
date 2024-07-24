@@ -103,22 +103,22 @@
         "address": "Address",
         "social_media_and_contact": "Social media and contact",
         "add_contact_email": "Add contact e-mail",
-        "resend_code": "Kod gelmedi mi? Yeniden kod <a href='#' after-send='gönderildi' class='scihook-link' send-form='#resend-code'> gönder</a>"
+        "resend_code": "Didn't you get the code? <a href='#' after-send='Sended' class='scihook-link' send-form='#resend-code'> Resend</a> code"
     },
     "toasts": {
-        "make_public_account": "Hesabınızı herkese açık hale getirdiniz. Artık profilinizi diğer kullanıcılar görüntüleyebilir.",
-        "make_private_account": "Hesabınızı gizli hale getirdiniz. Artık profilinizi diğer kullanıcılar görüntüleyemez.",
-        "make_public_data": "Bu bilgiyi herkese açık hale getirdiniz. Artık diğer kullanıcılar bu bilgiyi görebilir.",
-        "make_private_data": "Bu bilgiyi gizli hale getirdiniz. Artık diğer kullanıcılar bu bilgiyi göremez.",
-        "failed_update_data": "Bilgiyi güncelleme işlemi başarısız oldu.",
-        "success_update_data": "Bu bilgiyi başarıyla güncellediniz.",
-        "password_changed": "Parolanız başarıyla değiştirildi."
+        "make_public_account": "You have made your account public. Now other users can view your profile.",
+        "make_private_account": "You have made your account private. Other users can no longer view your profile.",
+        "make_public_data": "You have made this information public. Now other users can see this information.",
+        "make_private_data": "You have made this information private. Other users can no longer see this information.",
+        "failed_update_data": "Updating information failed.",
+        "success_update_data": "You have successfully updated this information.",
+        "password_changed": "Your password has been changed successfully."
     },
     "tooltips": {
-        "if_private_not_changeable": "Bu bilgi, hesabınız gizli olduğu sürece değiştirilemez.",
-        "coming_soon_feat": "Bu özellik çok yakında Sci-Hook'ta!",
-        "coming_soon_page": "Bu sayfa çok yakında Sci-Hook'ta!",
-        "coming_soon": "Çok yakında!"
+        "if_private_not_changeable": "This information cannot be changed as long as your account is private.",
+        "coming_soon_feat": "This feature is coming soon to Sci-Hook!",
+        "coming_soon_page": "This page is coming soon to Sci-Hook!",
+        "coming_soon": "Coming soon!"
     },
     "dropdowns": {
         "logout": "Logout",
