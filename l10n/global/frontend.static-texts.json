@@ -39,23 +39,6 @@
     },
     "languages": {
         "en-us": "English (United States)",
-        "en-gb": "English (United Kingdom)",
-        "de-de": "Deutsch (Deutschland)",
-        "es-es": "Español (España)",
-        "fr-fr": "Français (France)",
-        "it-it": "Italiano (Italia)",
-        "ru-ru": "Русский (Россия)",
-        "az-az": "Azərbaycanca (Azərbaycan)",
-        "gr-gr": "Ελληνικά (Ελλάδα)",
-        "bg-bg": "български (България)",
-        "fi-fi": "Suomi (Suomi)",
-        "in-in": "हिंदी (भारत)",
-        "zh-cn": "汉语 (中华人民共和国)",
-        "zh-tw": "漢語 (中華人民共和國)",
-        "jp-jp": "日本語 (日本国)",
-        "kr-kr": "한국어 (대한민국)",
-        "cz-cz": "Čeština (Česko)",
-        "ar-sa": "(جمهوری اسلامی ایران) فارسی",
-        "fa-ir": "(المملكة العربية السعودية) اَلْعَرَبِيَّةُ"
+        "tr-tr": "Türkçe"
     }
 }
