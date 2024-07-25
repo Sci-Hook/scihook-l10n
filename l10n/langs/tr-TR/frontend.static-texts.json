@@ -126,12 +126,13 @@
         "feedback": "Geri bildirim",
         "support_center": "Destek Merkezi",
         "manage_account": "Hesabını yönet",
-        "site_theme": "Site Teması",
+        "site_theme": "Site theme",
         "return_home": "Anasayfaya dön",
         "family_management": "Aile Yönetimi",
         "support_articles": "Destek makaleleri",
         "orgs": "Organizasyonlar",
-        "change_account": "Hesap değiştir"
+        "change_account": "Hesap değiştir",
+        "support_us": "Support us"
     },
     "genders": {
         "undefined": "Belirtmek istemiyorum",
