@@ -22,7 +22,7 @@
     "pp_max_file_size": "Profile photo size must be less than 1MB.",
     "success_upload": "File successfully uploaded.",
     "not_found": "Not found.",
-    "found": "Found.",
+    "found": "Bulundu.",
     "data_not_found": "Data is not found.",
     "data_already_exists": "Data already exists.",
     "code_resent": "Verification code resent.",
@@ -32,9 +32,9 @@
     "mailcode_wrong": "Verification code is incorrect.",
     "verification_not_found": "Verification operation not found.",
     "account_verified": "Your account has been successfully verified.",
-    "login_completed": "You are successfully logged in.",
-    "wrong_password": "Your password is incorrect. Please try again.",
-    "unauthorized": "You are not authorized for this action.",
-    "user_not_found": "User not found.",
+    "login_completed": "Başarıyla giriş yaptınız.",
+    "wrong_password": "Parolanızı hatalı girdiniz. Lütfen tekrar deneyiniz.",
+    "unauthorized": "Bu işlem için yetkili değilsiniz.",
+    "user_not_found": "Kullanıcı bulunamadı.",
     "rate_limit": "You have reached the rate limit. Please try again later."
 }
