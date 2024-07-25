@@ -114,7 +114,7 @@
         "failed_update_data": "Updating information failed.",
         "success_update_data": "You have successfully updated this information.",
         "password_changed": "Your password has been changed successfully.",
-        "feedback_sent": "Your feedback has been sent successfully. Thank you for your support! Our team will review your feedback as soon as possible."
+        "feedback_sent": "Your feedback has been sent successfully. Thank you for your support!"
     },
     "tooltips": {
         "if_private_not_changeable": "This information cannot be changed as long as your account is private.",
@@ -166,7 +166,7 @@
         "register-1": "Create Your Sci-Hook Account",
         "register-2": "Setup Your Account",
         "register-3": "Customize Your Profile",
-        "login": "Login to Your Account",
+        "login-1": "Login to Your Account",
         "account-management-center": "Account Management Center",
         "privacy-and-security": "Privacy and Security",
         "account-settings": "Account Settings",
