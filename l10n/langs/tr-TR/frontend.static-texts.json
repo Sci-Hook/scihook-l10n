@@ -85,7 +85,7 @@
         "confirm_new_password": "Yeni parolayı onayla",
         "new_email": "Yeni e-posta adresi",
         "new_username": "Yeni kullanıcı adı",
-        "feedback_description": "Please write your feedback here (up to 2048 characters)"
+        "feedback_description": "Lütfen geri bildiriminizi buraya yazınız (en fazla 2048 karakter)"
     },
     "form_texts": {
         "optional": "(isteğe bağlı)",
