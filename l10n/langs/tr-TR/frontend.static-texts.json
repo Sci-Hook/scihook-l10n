@@ -113,7 +113,8 @@
         "make_private_data": "Bu bilgiyi gizli hale getirdiniz. Artık diğer kullanıcılar bu bilgiyi göremez.",
         "failed_update_data": "Bilgiyi güncelleme işlemi başarısız oldu.",
         "success_update_data": "Bu bilgiyi başarıyla güncellediniz.",
-        "password_changed": "Parolanız başarıyla değiştirildi."
+        "password_changed": "Parolanız başarıyla değiştirildi.",
+        "feedback_sent": "Your feedback has been sent successfully. Thank you for your support! Our team will review your feedback as soon as possible."
     },
     "tooltips": {
         "if_private_not_changeable": "Bu bilgi, hesabınız gizli olduğu sürece değiştirilemez.",
