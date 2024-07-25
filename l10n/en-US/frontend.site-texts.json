@@ -217,5 +217,15 @@
         "vp_text": "Sci-Hook exists with volunteers. Volunteers contribute to the development of Sci-Hook and help Sci-Hook fulfill its mission. Anyone wishing to volunteer for Sci-Hook is subject to the Sci-Hook Volunteer Policy.",
         "vp_button": "Go to Policy"
     },
+    "mission": {
+        "mi_1": "Our Mission",
+        "mi_2": "Misyonumuz çok nettir: Bilimi herkes için, her zaman erişilebilir kılmak. Bilime erişimin herkesin hakkı olduğuna inanıyoruz ve bilimin, geleceği inşa etmek için tek yol olduğunu biliyoruz.",
+        "mi_3": "Our vision",
+        "mi_4": "Bilimi daha fazla kişiye ulaştırabilmeyi, bilimsel projelerimizi dünya çapında yaygınlaştırabilmeyi ve bilimin gelişimine aktif olarak katkıda bulunabilmeyi hedefliyoruz.",
+        "mi_5": "Our strategy",
+        "mi_6": "Kullanıcıyı merkeze alıyoruz. Herkese erişebilmenin başında kullanıcı dostu olmak gerektiğine inanıyoruz. Kullanıcı ihtiyaçlarını analiz edip çalışmalarımızı bu doğrultuda şekillendiriyoruz.",
+        "mi_7": "Who are we?",
+        "mi_8": "Biz, bilime ve teknolojiye gönül vermiş kişileriz. Sci-Hook, gönüllüler ile varlığını sürdürüyor ve gelişiyor."
+    },
     "date_of_birth_text": "Date of birth"
 }
