@@ -36,5 +36,6 @@
     "wrong_password": "Parolanızı hatalı girdiniz. Lütfen tekrar deneyiniz.",
     "unauthorized": "Bu işlem için yetkili değilsiniz.",
     "user_not_found": "Kullanıcı bulunamadı.",
-    "rate_limit": "İstek limitine ulaştınız. Lütfen daha sonra tekrar deneyin."
+    "rate_limit": "İstek limitine ulaştınız. Lütfen daha sonra tekrar deneyin.",
+    "feedback_sent": "Feedback sent successfully."
 }
