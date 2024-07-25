@@ -84,7 +84,8 @@
         "new_password": "New password",
         "confirm_new_password": "Confirm new password",
         "new_email": "New e-mail address",
-        "new_username": "New username"
+        "new_username": "New username",
+        "feedback_description": "Please write your feedback here (up to 2048 characters)"
     },
     "form_texts": {
         "optional": "(optional)",
