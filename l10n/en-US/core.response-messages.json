@@ -20,6 +20,7 @@
     "email_change": "E-mail address successfully changed.",
     "upload_file": "Please upload a file.",
     "unsupported_file": "This file format is not supported.",
+    "pp_max_file_size": "Profile photo size must be less than 1MB.",
     "success_upload": "File successfully uploaded.",
     "not_found": "Not found.",
     "found": "Found.",
