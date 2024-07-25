@@ -64,7 +64,8 @@
     "feedback_content": {
         "undefined": "Please enter feedback content.",
         "min_length": "Feedback content must be at least #{required} characters.",
-        "max_length": "Feedback content must be at most #{required} characters."
+        "max_length": "Feedback content must be at most #{required} characters.",
+        "type": "Please enter feedback content."
     },
     "feedback_topic": {
         "undefined": "Please select a feedback topic.",
