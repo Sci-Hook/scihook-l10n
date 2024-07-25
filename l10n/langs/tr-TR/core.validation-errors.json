@@ -10,10 +10,10 @@
     "password": {
         "min_length": "Password must be at least #{required} characters.",
         "max_length": "Password must be at most #{required} characters.",
-        "undefined": "You must enter a password."
+        "undefined": "Bir parola girmeniz gerekmektedir."
     },
     "email": {
-        "undefined": "You must enter an e-mail address.",
+        "undefined": "Bir e-posta adresi girmeniz gerekmektedir.",
         "max_length": "E-mail address must be at most #{required} characters.",
         "services": "This e-mail provider is not allowed on Sci-Hook. Please try to sign up with another e-mail provider.",
         "invalid": "E-mail address format is incorrect. Please enter in a valid format.",
@@ -42,22 +42,22 @@
         "max_length": "Job must be at most #{required} characters."
     },
     "birhday": {
-        "max_length": "Please enter a valid date.",
-        "min_length": "Please enter a valid date.",
-        "type": "Please enter a day."
+        "max_length": "Lütfen geçerli bir tarih giriniz.",
+        "min_length": "Lütfen geçerli bir tarih giriniz.",
+        "type": "Lütfen bir gün giriniz."
     },
     "birthmonth": {
-        "min_length": "Please enter a valid date.",
-        "max_length": "Please enter a valid date.",
-        "type": "Please select a month.",
+        "min_length": "Lütfen geçerli bir tarih giriniz.",
+        "max_length": "Lütfen geçerli bir tarih giriniz.",
+        "type": "Lütfen bir ay seçiniz.",
         "values": "Please select a month from the list."
     },
     "birthyear": {
-        "min_length": "Please enter a valid date.",
-        "max_length": "Please enter a valid date.",
-        "type": "Please enter a year."
+        "min_length": "Lütfen geçerli bir tarih giriniz.",
+        "max_length": "Lütfen geçerli bir tarih giriniz.",
+        "type": "Lütfen bir yıl giriniz."
     },
     "verify-password": {
-        "not_match": "Passwords do not match. Please check."
+        "not_match": "Parolalar birbiriyle eşleşmiyor. Lütfen kontrol ediniz."
     }
 }
