@@ -96,7 +96,7 @@
         "ps_10": "Hesap kurtarma",
         "ps_11": "Hesabınızı kaybetmeniz durumunda kurtarabilmek için yapabileceğiniz ek ayarları görüntüleyebilir ve kendinize göre yapılandırabilirsiniz.",
         "ps_12": "Kurtarma e-postası belirle",
-        "ps_13": "Sci-Hook'a kayıt olurken kullandığınız e-posta adresinizi kaybetmeniz durumunda hesabınızı kurtarmak için şifre sıfırlamasının gönderileceği e-posta adresidir. Bir kurtarma e-postası belirlemezseniz Hesap Kurtarma Programı'nı (eğer deaktive edilmediyse) kullanmanız gerekecektir.",
+        "ps_13": "Sci-Hook'a kayıt olurken kullandığınız e-posta adresinizi kaybetmeniz durumunda hesabınızı kurtarmak için şifre sıfırlamasının gönderileceği e-posta adresidir. Bir kurtarma e-postası belirlemezseniz Hesap Kurtarma Programı'nı (eğer deaktif edilmediyse) kullanmanız gerekecektir.",
         "ps_14": "Kurtarma kodu ayarları",
         "ps_15": "Kurtarma kodları, hesabınızı kaybetmeniz durumunda hesabınızın size ait olduğunu kanıtlamak için oldukça yardımcıdır. Kurtarma kodları, toplamda 16 koddan oluşur. Sadece Hesap Kurtarma Programı açıksa kodları kullanabilirsiniz.",
         "ps_16": "Hesap Kurtarma Programını Aktif Et",
@@ -110,8 +110,8 @@
         "ps_24": "Aşağıda hangi verilerinizi topladığımızın ve verileriniz ile neler yapıp neler yapmadığımzın bir listesi bulunmaktadır. Bu liste bilgilendirme amaçlıdır ve eksikler bulunabilir. Resmî aydınlatma için <a class='scihook-link' href='https://policies.scihook.org/privacy-policy'>Gizlilik Politikası</a>'nı inceleyiniz.",
         "ps_25": "Kişisel verileriniz ile bir algoritma <b>oluşturmuyoruz.</b>",
         "ps_26": "Reklamlar için hesap verilerinizi asla <b>kullanmıyoruz.</b>",
-        "ps_27": "We do not share any data you specify with 3rd party applications <b>for commercial purposes.</b>",
-        "ps_28": "We do not keep your data classified as \"sensitive data\" as standard.",
+        "ps_27": "Belirttiğiniz hiçbir veriyi 3. parti uygulamalarla <b>ticari amaçlarla</b> paylaşmıyoruz",
+        "ps_28": "\"Hassas veri\" veri sınıfına giren verilerinizi standart olarak saklamıyoruz.",
         "ps_29": "Hesap kullanım istatistiklerini <b>sadece size</b> gösteriyoruz.",
         "ps_30": "Yazılımsal açıklara yer vermiyoruz ve verilerinizi <b>özenle koruyoruz.</b>",
         "ps_31": "Veri merkezlerimizi en son teknolojiler ile sürekli olarak <b>koruyoruz.</b>",
@@ -126,7 +126,7 @@
         "ps_40": "Geliştiriciler için API kayıtlarını veri tabanlarımızda tutuyoruz.",
         "ps_41": "Bağladığınız sosyal medya hesaplarınızı tutuyoruz.",
         "ps_42": "Kullandığınız cihaz bilgilerini ve işletim sistemini tutuyoruz.",
-        "ps_43": "The comparison text above is a summary text with important points to inform users. Its text has no legal or official validity. Data collected by region may vary and external circumstances may occur. For the official information text, please read <a class='scihook-link' href='https://policies.scihook.org/privacy-policy'>Sci-Hook Privacy Policy</a>. The text that will be applied in accordance with the law is <a class='scihook-link' href='https://policies.scihook.org/privacy-policy'>Privacy Policy</a>.",
+        "ps_43": "Yukarıdaki karşılaştırma metni kullanıcıları bilgilendirmek amacıyla özet niteliği taşıyan, önemli noktalara değinilmiş bir aydınlatma metnidir. Metninin yasal ve resmî bir geçerliliği bulunmamaktadır. Bölgelere göre toplanan veriler değişebilir ve harici durumlar oluşabilir. Resmî aydınlatma metni için lütfen <a class='scihook-link' href='https://policies.scihook.org/privacy-policy'>Sci-Hook Gizlilik Politikası</a>'nı okuyunuz. Yasalar gereği uygulanacak olan metin <a class='scihook-link' href='https://policies.scihook.org/privacy-policy'>Gizlilik Politikası</a>'dır.",
         "ps_44": "Sci-Hook hesap veri planınızı oluşturun",
         "ps_45": "Gelecekte verilerinize ne olacağını planlayabilirsiniz",
         "ps_46": "Sci-Hook hesabınızı dondurun",
@@ -169,13 +169,13 @@
         "wikimedia_text": "Wikimedia hesabınızı ekleyerek Wikimedia projelerinizdeki katkılarınızı diğer kişilere gösterebilirsiniz.",
         "github_text": "GitHub hesabınızı ekleyerek açık kaynak projelerinizi ve çalışmalarınızı sergileyebilirsiniz.",
         "gitlab_text": "GitLab hesabınızı ekleyerek açık kaynak projelerinizi ve çalışmalarınızı sergileyebilirsiniz.",
-        "inaturalist_text": "By adding your iNaturalist account you can show your nature observations and contributions.",
-        "khan_academy_text": "By adding your Khan Academy account, you can show your classes and learning to others.",
-        "google_text": "By adding your Google account, you can do actions in Sci-Hook that require a Google account.",
-        "mastodon_text": "You can share your account on Mastodon, an open source social media platform, with other people.",
-        "linkedin_text": "By adding your LinkedIn account, you can share your work and resume.",
-        "x_twitter_text": "By adding your X account, you are verifying that your X account belongs to you.",
-        "instagram_text": "By adding your Instagram account, you are verifying that your Instagram account belongs to you."
+        "inaturalist_text": "iNaturalist hesabınızı ekleyerek doğa gözlemlerinizi ve katkılarınızı gösterebilirsiniz.",
+        "khan_academy_text": "Khan Academy hesabınızı ekleyerek sınıflarınızı ve öğrenimlerinizi diğer kişilere gösterebilirsiniz.",
+        "google_text": "Google hesabınızı ekleyerek Sci-Hook'ta Google hesabı gerektiren işlemleri yapabilirsiniz.",
+        "mastodon_text": "Açık kaynak sosyal medya platformu olan Mastodon'daki hesabınızı diğer kişiler ile paylaşabilirsiniz.",
+        "linkedin_text": "LinkedIn hesabınızı ekleyerek çalışmalarınızı ve öz geçmişinizi paylaşabilirsiniz.",
+        "x_twitter_text": "X hesabınızı ekleyerek X hesabınızın size ait olduğunu doğrulamış olursunuz.",
+        "instagram_text": "Instagram hesabınızı ekleyerek Instagram hesabınızın size ait olduğunu doğrulamış olursunuz."
     },
     "email_verification": {
         "ev_1": "E-Posta Adresinizi Onaylayın",
@@ -187,49 +187,49 @@
         "ec_3": "Yeni e-posta adresi",
         "ec_4": "Hesabınızda kullanmak istediğiniz yeni e-posta adresini giriniz.",
         "ec_5": "E-posta onay kodu",
-        "ec_6": "Enter the verification code received at your current e-mail address and confirm the process."
+        "ec_6": "Şu anki e-posta adresinize gelen doğrulama kodunu girin ve işlemi onaylayın."
     },
     "password_recovery": {
         "pr_1": "Parolanızı Sıfırlayın",
         "pr_2": "E-posta adresinize gelen kodu girin ve parolanızı değiştirin.",
-        "pr_3": "Enter the verification code sent to the e-mail address linked to your account."
+        "pr_3": "Hesabınıza bağlı olan e-posta adresinize gelen doğrulama kodunu giriniz."
     },
     "change_unverified_email": {
         "cue_1": "E-Posta Adresinizi Değiştirin",
-        "cue_2": "Change and verify your incorrectly entered e-mail address."
+        "cue_2": "Hatalı girmiş olduğunuz e-posta adresinizi değiştirin ve doğrulayın."
     },
     "get_password_recovery": {
         "gpr_1": "E-Posta Adresinizi Aratın",
-        "gpr_2": "Enter the e-mail you used to register so we can send you a verification code."
+        "gpr_2": "Size doğrulama kodu göndermemiz için kayıt olurken kullandığınız e-postayı girin."
     },
     "policies_page": {
-        "archive_title": "<i class='fa-solid fa-scale-balanced'></i> This Version is Repealed, This is an Archive Record!",
-        "archive_text": "The version you have accessed is an archived, older version of the relevant legal text and is no longer in effect. Sci-Hook continues to make archived, older versions of legal texts available to users for transparency purposes. <b>Please note that you are subject to the current version of the relevant legal text and that in a legal situation, the current version of the relevant text will prevail.</b>",
+        "archive_title": "<i class='fa-solid fa-scale-balanced'></i> Bu Sürüm Yürürlükten Kalkmıştır, Bu Bir Arşiv Kaydıdır!",
+        "archive_text": "Erişmiş olduğunuz bu sürüm; ilgili yasal metnin arşivlenmiş, eski bir sürümüdür ve artık yürürlükte bulunmamaktadır. Sci-Hook, şeffaflık amacıyla yasal metinlerin arşivlenmiş, eski sürümlerini kullanıcıların erişiminde tutmaya devam etmektedir. <b>Lütfen ilgili yasal metnin yürürlükte olan sürümüne tabi olduğunuzu ve yasal bir durumda, ilgili metnin yürürlükte olan sürümünün geçerli olacağını unutmayınız.</b>",
         "pp_title": "Gizlilik Politikası",
-        "pp_text": "Learn how Sci-Hook collects, processes and protects your data. Anyone who accesses Sci-Hook is subject to the Sci-Hook Privacy Policy.",
+        "pp_text": "Sci-Hook'un verilerinizi nasıl topladığını, nasıl işlediğini ve nasıl koruduğunu öğrenin. Sci-Hook'a erişim sağlayan herkes, Sci-Hook Gizlilik Politikası'na tabidir.",
         "pp_button": "Politikaya Git",
         "tou_title": "Kullanım Koşulları",
-        "tou_text": "Sci-Hook has a set of rules and guidelines that govern how its users may use Sci-Hook and what users may do while using Sci-Hook. Anyone who accesses Sci-Hook is subject to the Sci-Hook Terms of Use.",
+        "tou_text": "Sci-Hook, kullanıcılarının Sci-Hook'u nasıl kullanabileceğini ve Sci-Hook'un kullanımı sırasında kullanıcıların ne yapabileceğini belirleyen bir dizi kural ve yönergeye sahiptir. Sci-Hook'a erişim sağlayan herkes, Sci-Hook Kullanım Koşulları'na tabidir.",
         "tou_button": "Sözleşmeye Git",
         "cp_title": "Çerez Politikası",
-        "cp_text": "We use cookies and similar technologies to help us understand how you use our systems and services. For detailed information on how cookies are used, please review the Cookie Policy.",
+        "cp_text": "Sistemlerimizi ve hizmetlerimizi nasıl kullandığınızı anlamamıza yardımcı olmak için çerezler ve benzer teknolojiler kullanırız. Çerezlerin nasıl kullanıldığı hakkında detaylı bilgi almak için Çerez Politikası'nı inceleyiniz.",
         "cp_button": "Politikaya Git",
         "vp_title": "Gönüllü Politikası",
-        "vp_text": "Sci-Hook exists with volunteers. Volunteers contribute to the development of Sci-Hook and help Sci-Hook fulfill its mission. Anyone wishing to volunteer for Sci-Hook is subject to the Sci-Hook Volunteer Policy.",
+        "vp_text": "Sci-Hook gönüllüler ile varlığını sürdürmektedir. Gönüllüler, Sci-Hook'un gelişimine katkı sağlar ve Sci-Hook'un misyonunu gerçekleştirmesine yardımcı olur. Sci-Hook'a gönüllü olmak isteyen herkes, Sci-Hook Gönüllü Politikası'na tabidir.",
         "vp_button": "Politikaya Git"
     },
     "mission": {
         "mi_1": "Misyonumuz",
-        "mi_2": "Our mission is very clear: To make science accessible to everyone, all the time. We believe that access to science is everyone's right and we know that science is the only way to build the future.",
+        "mi_2": "Misyonumuz çok nettir: Bilimi herkes için, her zaman erişilebilir kılmak. Bilime erişimin herkesin hakkı olduğuna inanıyoruz ve bilimin, geleceği inşa etmek için tek yol olduğunu biliyoruz.",
         "mi_3": "Vizyonumuz",
-        "mi_4": "We aim to bring science to more people, popularize our scientific projects worldwide and actively contribute to the development of science.",
+        "mi_4": "Bilimi daha fazla kişiye ulaştırabilmeyi, bilimsel projelerimizi dünya çapında yaygınlaştırabilmeyi ve bilimin gelişimine aktif olarak katkıda bulunabilmeyi hedefliyoruz.",
         "mi_5": "Stratejimiz",
-        "mi_6": "We put the user at the center. We believe that being user-friendly is the first step to reaching everyone. We analyze user needs and shape our work accordingly.",
+        "mi_6": "Kullanıcıyı merkeze alıyoruz. Herkese erişebilmenin başında kullanıcı dostu olmanın geldiğine inanıyoruz. Kullanıcı ihtiyaçlarını analiz edip çalışmalarımızı bu doğrultuda şekillendiriyoruz.",
         "mi_7": "Biz kimiz?",
-        "mi_8": "We are people who are dedicated to science and technology. Sci-Hook survives and thrives with volunteers. We are a team constantly striving to stick to our mission and achieve our vision."
+        "mi_8": "Biz, bilime ve teknolojiye gönül vermiş kişileriz. Sci-Hook, gönüllüler ile varlığını sürdürüyor ve gelişiyor. Misyonumuza bağlı kalmak ve vizyonumuza ulaşmak için devamlı olarak çabalayan bir ekibiz."
     },
     "bands": {
-        "unverified_email": "You have not confirmed your e-mail address! Accounts with unconfirmed e-mail addresses will be permanently deleted within 7 days."
+        "unverified_email": "E-posta adresinizi onaylamadınız! E-posta adresi onaylanmayan hesaplar, 7 gün içerisinde kalıcı olarak silinirler."
     },
     "date_of_birth_text": "Doğum tarihiniz"
 }
