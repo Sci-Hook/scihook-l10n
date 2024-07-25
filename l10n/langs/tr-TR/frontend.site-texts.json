@@ -178,15 +178,15 @@
         "instagram_text": "By adding your Instagram account, you are verifying that your Instagram account belongs to you."
     },
     "email_verification": {
-        "ev_1": "Verify Your E-Mail Address",
-        "ev_2": "Confirm that your e-mail address is yours."
+        "ev_1": "E-Posta Adresinizi Onaylayın",
+        "ev_2": "E-posta adresinin size ait olduğunu doğrulayın."
     },
     "email_change": {
         "ec_1": "E-Posta Adresinizi Değiştirin",
         "ec_2": "Yeni e-posta adresinizi girin ve hesabınıza bağlı olan e-posta adresini değiştirin.",
         "ec_3": "Yeni e-posta adresi",
         "ec_4": "Hesabınızda kullanmak istediğiniz yeni e-posta adresini giriniz.",
-        "ec_5": "E-mail verification code",
+        "ec_5": "E-posta onay kodu",
         "ec_6": "Enter the verification code received at your current e-mail address and confirm the process."
     },
     "password_recovery": {
