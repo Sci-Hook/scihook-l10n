@@ -64,7 +64,7 @@
         "undefined": "Lütfen bir geri bildirim giriniz.",
         "min_length": "Geri bildirim içeriği en az #{required} karakter olmalıdır.",
         "max_length": "Geri bildirim içeriği en fazla #{required} karakter olabilir.",
-        "type": "Please enter feedback content."
+        "type": "Lütfen bir geri bildirim giriniz."
     },
     "feedback_topic": {
         "undefined": "Lütfen bir geri bildirim konusu seçin.",
