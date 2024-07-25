@@ -114,7 +114,7 @@
         "failed_update_data": "Bilgiyi güncelleme işlemi başarısız oldu.",
         "success_update_data": "Bu bilgiyi başarıyla güncellediniz.",
         "password_changed": "Parolanız başarıyla değiştirildi.",
-        "feedback_sent": "Geri bildiriminiz başarıyla gönderildi. Desteğiniz için teşekkür ederiz! Ekibimiz geri bildiriminizi en kısa sürede inceleyecektir."
+        "feedback_sent": "Geri bildiriminiz başarıyla gönderildi. Desteğiniz için teşekkür ederiz!"
     },
     "tooltips": {
         "if_private_not_changeable": "Bu bilgi, hesabınız gizli olduğu sürece değiştirilemez.",
@@ -166,7 +166,7 @@
         "register-1": "Sci-Hook Hesabınızı Oluşturun",
         "register-2": "Hesabını Oluştur",
         "register-3": "Profilini Özelleştir",
-        "login": "Hesabınıza Giriş Yapın",
+        "login-1": "Hesabınıza Giriş Yapın",
         "account-management-center": "Hesap Yönetim Merkezi",
         "privacy-and-security": "Gizlilik ve Güvenlik",
         "account-settings": "Hesap Ayarları",

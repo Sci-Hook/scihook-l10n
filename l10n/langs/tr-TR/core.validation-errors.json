@@ -61,7 +61,7 @@
         "not_match": "Parolalar birbiriyle eşleşmiyor. Lütfen kontrol ediniz."
     },
     "feedback_content": {
-        "undefined": "Geri bildirim içeriği boş bırakılamaz.",
+        "undefined": "Lütfen bir geri bildirim giriniz.",
         "min_length": "Geri bildirim içeriği en az #{required} karakter olmalıdır.",
         "max_length": "Geri bildirim içeriği en fazla #{required} karakter olabilir."
     },
