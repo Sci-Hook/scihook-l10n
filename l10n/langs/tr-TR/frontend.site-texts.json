@@ -14,25 +14,25 @@
         "la_12": "Sci-Hook akademiye ve öğrencilere destek sağlıyor! Eğer eğitimci, akademisyen veya öğrenciyseniz özel programlarımıza bakabilirsiniz.",
         "la_13": "Sci-Hook'un <span class='underlined-text'>özgür ve açık kaynak</span><br>araçlarını kullanmaya başlayın.",
         "la_14": "Öğrenin ve Öğrenirken Katkı Sağlayın",
-        "la_15": "Increase your knowledge by using Sci-Hook's products. At the same time, contribute to the development of open science by contributing to Sci-Hook's open source projects.",
+        "la_15": "Sci-Hook'un ürünlerini kullanarak bilgi birikiminizi arttırın. Aynı zamanda, Sci-Hook'un açık kaynak projelerine katkı sağlayarak açık bilimin gelişmesine katkıda bulunun.",
         "la_16": "Bilimsel Projelerinizi Geliştirin",
-        "la_17": "Whether for school projects or scientific research, Sci-Hook's products can help you take your work to the next level.",
+        "la_17": "İster okul projelerinizde, ister bilimsel araştırmalarınızda Sci-Hook'un ürünlerinden faydalanarak çalışmalarınızı bir sonraki seviyeye taşıyabilirsiniz.",
         "la_18": "Derslerinizde ve Çalışmalarınızda Faydalanın",
-        "la_19": "Use Sci-Hook for educational purposes! With Sci-Hook's tools and projects, you can make your lessons and studies more efficient and increase your success.",
-        "la_20": "Start exploring Sci-Hook <span class='underlined-text'>projects and tools</span>.",
-        "la_21": "The Sci-Hook Organization develops a variety of projects from all areas of science.<br>We make our projects accessible to everyone, <span class='underlined-text'>free and open source</span>.",
-        "la_22": "Join the Sci-Hook<span class='underlined-text'> communities</span> and stay in touch."
+        "la_19": "Sci-Hook'u eğitim amacıyla kullanın! Sci-Hook'un araçları ve projeleri ile derslerinizi ve çalışmalarınızı daha verimli hâle getirebilir, başarınızı artırabilirsiniz.",
+        "la_20": "Sci-Hook<span class='underlined-text'> projelerini ve araçlarını</span> <br>incelemeye başlayın.",
+        "la_21": "Sci-Hook Organizasyonu, bilimin her alanından çeşitli projeler geliştirmektedir.<br> Projelerimizi herkes tarafından erişilebilir, <span class='underlined-text'>özgür ve açık kaynak</span> geliştiriyoruz.",
+        "la_22": "Sci-Hook<span class='underlined-text'> topluluklarına</span> katılın<br>ve iletişimde kalın."
     },
     "register_page_1": {
         "re_1": "Sci-Hook Hesabı Oluşturun",
         "re_2": "Temel hesap bilgilerinizi oluşturun.",
-        "re_3": "<i class='fa-solid fa-circle-info'></i> By registering with Sci-Hook, you acknowledge that you have read the <a class='scihook-link' href='https://policies.scihook.org/privacy-policy'>Privacy Policy</a> and <a class='scihook-link' href='https://policies.scihook.org/terms-of-use'>Terms of Use</a>.",
-        "re_4": "<i class='fa-solid fa-building-user'></i> Want to create an account on behalf of an organization (institution, foundation, company, etc.)? Create an organization account<a class='scihook-link' href=''>.</a>"
+        "re_3": "<i class='fa-solid fa-circle-info'></i> Sci-Hook'a kayıt olarak <a class='scihook-link' href='https://policies.scihook.org/privacy-policy'>Gizlilik Politikası</a>'nı ve <a class='scihook-link' href='https://policies.scihook.org/terms-of-use'>Kullanım Koşulları</a>'nı okuduğunuzu kabul etmiş sayılırsınız.",
+        "re_4": "<i class='fa-solid fa-building-user'></i> Bir organizasyon (kurum, vakıf, şirket vb.) adına hesap oluşturmak mı istiyorsunuz? Organizasyon hesabı<a class='scihook-link' href=''> oluşturun.</a>"
     },
     "register_page_2": {
         "re_5": "Sci-Hook Hesabınızı Kişiselleştirin",
         "re_6": "Tercihe bağlı hesap bilgilerinizi girebilirsiniz.",
-        "re_7": "<i class='fa-solid fa-circle-info'></i> You can edit your personal information later through the Sci-Hook Account Management Center and further customize your account."
+        "re_7": "<i class='fa-solid fa-circle-info'></i> Kişisel bilgilerinizi daha sonrasında Sci-Hook Hesap Yönetim Merkezi üzerinden düzenleyebilir ve hesabınızı daha fazla özelleştirebilirsiniz."
     },
     "register_page_3": {
         "re_8": "Sci-Hook Hesabınızı Kişiselleştirin",
@@ -42,7 +42,7 @@
         "lo_1": "Sci-Hook Hesabınıza Giriş Yapın",
         "lo_2": "Hesap bilgilerinizi girerek hesabınıza giriş yapın.",
         "lo_3": "Sci-Hook hesabınız yok mu? Hesap<a class='scihook-link' href='/register'> oluşturun.</a>",
-        "lo_4": "Can't access your account? Recover your account<a class='scihook-link' href='/recovery'>.</a>"
+        "lo_4": "Hesabınıza erişemiyor musunuz? Hesabınızı<a class='scihook-link' href='/recovery'> kutarın.</a>"
     },
     "login_page_2": {
         "lo_5": "Girişinizi Doğrulayın",
@@ -58,10 +58,10 @@
         "amc_7": "Hesabınızın ne kadar güvende olduğundan emin değil misiniz? Hesabınızın ne kadar güvende olduğunu kontrol edebilirsiniz.",
         "amc_8": "Güvenlik kontrolü yap",
         "amc_9": "Güvenlik, gizlilik ve verileriniz",
-        "amc_10": "You can check account privacy, review your data and choose how you want your data to be managed. You can also check and update information related to your account security.",
+        "amc_10": "Hesap gizliliğini kontrol edebilir, verilerinizi inceleyebilir ve verilerinizin nasıl yönetilmesini istediğinizi seçebilirsiniz. Ayrıca hesap güvenliğiniz ile ilişkili bilgilerinizi kontrol edebilir ve güncelleyebilirsiniz.",
         "amc_11": "Gizlilik ve güvenlik",
         "amc_12": "Hesap geçmişi",
-        "amc_13": "You can see the activities you have done with your account and configure history saving settings.",
+        "amc_13": "Hesabınız ile yaptığınız aktiviteleri görebilir ve geçmiş kaydetme ayarlarını yapılandırabilirsiniz.",
         "amc_14": "Geçmişi incele",
         "amc_15": "Bağlı hesaplar",
         "amc_16": "Diğer Sci-Hook araçlarına bağlı hesaplarınızı tek bir yerden yönetebilirsiniz.",
@@ -81,7 +81,7 @@
         "amc_30": "Hesap Yönetim Merkezi önerisi",
         "amc_31": "Hesap Yönetim Merkezi hatası",
         "amc_32": "Görünüm veya çeviri hatası",
-        "amc_33": "When you submit feedback, some of your Sci-Hook account information may be included in your feedback. Feedback is not a support service. If you would like assistance, please use the Support Center."
+        "amc_33": "Geri bildirimi gönderdiğinizde bazı Sci-Hook hesap bilgileriniz geri bildiriminize eklenebilir. Geri bildirim, bir yardım servisi değildir. Eğer yardım almak istiyorsanız lütfen Yardım Merkezi'ni kullanınız."
     },
     "privacy_security": {
         "ps_1": "Hesap verileriniz ve ayarlar",
@@ -94,7 +94,7 @@
         "ps_8": "Hesap verileriniz ana hesap e-posta adresinize gönderilecektir. Verilerinizin derlenmesi en geç 30 gün içerisinde tamamlanacak ve size iletilecektir.",
         "ps_9": "Gizlilik ve Güvenlik Merkezi",
         "ps_10": "Hesap kurtarma",
-        "ps_11": "You can view and configure additional settings to recover your account in case you lose it.",
+        "ps_11": "Hesabınızı kaybetmeniz durumunda kurtarabilmek için yapabileceğiniz ek ayarları görüntüleyebilir ve kendinize göre yapılandırabilirsiniz.",
         "ps_12": "Kurtarma e-postası belirle",
         "ps_13": "Sci-Hook'a kayıt olurken kullandığınız e-posta adresinizi kaybetmeniz durumunda hesabınızı kurtarmak için şifre sıfırlamasının gönderileceği e-posta adresidir. Bir kurtarma e-postası belirlemezseniz Hesap Kurtarma Programı'nı (eğer deaktive edilmediyse) kullanmanız gerekecektir.",
         "ps_14": "Kurtarma kodu ayarları",
@@ -103,13 +103,13 @@
         "ps_17": "Hesap Kurtarma Programı hakkında daha fazla bilgi için <a class='scihook-link' href=''>bakabilirsiniz</a>.",
         "ps_18": "Hesap Kurtarma Programı'nda bütün oturumlardan çık",
         "ps_19": "Hesap güvenliği için önerilir ve standart olarak açıktır.",
-        "ps_20": "Once the Account Recovery Program is initiated for your account from a location, all devices from which you logged into your account will be logged out while the Account Recovery Program application is being reviewed. Since the Account Recovery Program can be initiated on accounts that have not been active for 80 days, it is not open to malicious use.",
+        "ps_20": "Bir konumdan hesabınıza yönelik Hesap Kurtarma Programı başlatıldıktan sonra Hesap Kurtarma Programı başvurusu incelenirken hesabınıza giriş yaptığınız bütün cihazlardan çıkış yapılır. Hesap Kurtarma Programı 80 gündür aktif olmayan hesaplarda başlatılabileceği için kötü niyetli kullanıma açık değildir.",
         "ps_21": "Hesap oturumları",
         "ps_22": "Hesabınıza daha önce giriş yaptığınız cihazları ve konum bilgilerini görüntüleyebilirsiniz. Cihazlardaki oturumlarınızı yönetebilirsiniz.",
         "ps_23": "Hangi verilerinizi tutuyoruz? Verilerinizle neler yapıyoruz, neler yapmıyoruz?",
-        "ps_24": "Below is a list of what data we collect and what we do and do not do with your data. This list is for informational purposes and may be incomplete. Check <a class='scihook-link' href='https://policies.scihook.org/privacy-policy'>Privacy Policy</a> for official disclosure.",
-        "ps_25": "We do not create an algorithm <b>with your personal data.</b>",
-        "ps_26": "We never <b>use<//b> your account data for advertisements.",
+        "ps_24": "Aşağıda hangi verilerinizi topladığımızın ve verileriniz ile neler yapıp neler yapmadığımzın bir listesi bulunmaktadır. Bu liste bilgilendirme amaçlıdır ve eksikler bulunabilir. Resmî aydınlatma için <a class='scihook-link' href='https://policies.scihook.org/privacy-policy'>Gizlilik Politikası</a>'nı inceleyiniz.",
+        "ps_25": "Kişisel verileriniz ile bir algoritma <b>oluşturmuyoruz.</b>",
+        "ps_26": "We <b>never use</b> your account data for advertisements.",
         "ps_27": "We do not share any data you specify with 3rd party applications for commercial purposes.</b>",
         "ps_28": "We do not keep your data classified as \"sensitive data\" as standard.",
         "ps_29": "Hesap kullanım istatistiklerini <b>sadece size</b> gösteriyoruz.",
@@ -225,7 +225,7 @@
         "mi_4": "We aim to bring science to more people, popularize our scientific projects worldwide and actively contribute to the development of science.",
         "mi_5": "Stratejimiz",
         "mi_6": "We put the user at the center. We believe that being user-friendly is the first step to reaching everyone. We analyze user needs and shape our work accordingly.",
-        "mi_7": "Who are we?",
+        "mi_7": "Biz kimiz?",
         "mi_8": "We are people who are dedicated to science and technology. Sci-Hook survives and thrives with volunteers. We are a team constantly striving to stick to our mission and achieve our vision."
     },
     "bands": {
