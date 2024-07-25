@@ -126,12 +126,13 @@
         "feedback": "Feedback",
         "support_center": "Support Center",
         "manage_account": "Manage account",
-        "site_theme": "Site Theme",
+        "site_theme": "Site theme",
         "return_home": "Return to homepage",
         "family_management": "Family Management",
         "support_articles": "Support articles",
         "orgs": "Organizations",
-        "change_account": "Change account"
+        "change_account": "Change account",
+        "support_us": "Support us"
     },
     "genders": {
         "undefined": "I don't want to specify",
