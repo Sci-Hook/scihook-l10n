@@ -29,8 +29,8 @@
         "logout_session": "Çıkış yap",
         "more_info": "Daha fazla bilgi",
         "edit": "Düzenle",
-        "add_orcid_id": "Add ORCID ID",
-        "add_account": "Add your account",
+        "add_orcid_id": "ORCID ID ekle",
+        "add_account": "Hesabını ekle",
         "connect_account": "Connect your account",
         "confirm": "Onayla",
         "change_email": "E-Posta Adresinizi Değiştirin",
@@ -80,7 +80,7 @@
         "account_surname": "Your surname specified in the account",
         "account_creation_date": "Hesap oluşturma tarihiniz",
         "account_creation_ip": "IP address where you created your account",
-        "email_code": "E-mail verification code",
+        "email_code": "E-posta onay kodu",
         "new_password": "Yeni parola",
         "confirm_new_password": "Yeni parolayı onayla",
         "new_email": "Yeni e-posta adresi",
@@ -104,28 +104,28 @@
         "address": "Adres",
         "social_media_and_contact": "Sosyal medya ve iletişim",
         "add_contact_email": "İletişim e-postası ekle",
-        "resend_code": "Didn't you get the code? <a href='#' after-send='Sended' class='scihook-link' send-form='#resend-code'> Resend</a> code"
+        "resend_code": "Kod gelmedi mi? Yeniden kod <a href='#' after-send='gönderildi' class='scihook-link' send-form='#resend-code'> gönder</a>"
     },
     "toasts": {
-        "make_public_account": "You have made your account public. Now other users can view your profile.",
-        "make_private_account": "You have made your account private. Other users can no longer view your profile.",
-        "make_public_data": "You have made this information public. Now other users can see this information.",
-        "make_private_data": "You have made this information private. Other users can no longer see this information.",
-        "failed_update_data": "Updating information failed.",
-        "success_update_data": "You have successfully updated this information.",
-        "password_changed": "Your password has been changed successfully."
+        "make_public_account": "Hesabınızı herkese açık hale getirdiniz. Artık profilinizi diğer kullanıcılar görüntüleyebilir.",
+        "make_private_account": "Hesabınızı gizli hale getirdiniz. Artık profilinizi diğer kullanıcılar görüntüleyemez.",
+        "make_public_data": "Bu bilgiyi herkese açık hale getirdiniz. Artık diğer kullanıcılar bu bilgiyi görebilir.",
+        "make_private_data": "Bu bilgiyi gizli hale getirdiniz. Artık diğer kullanıcılar bu bilgiyi göremez.",
+        "failed_update_data": "Bilgiyi güncelleme işlemi başarısız oldu.",
+        "success_update_data": "Bu bilgiyi başarıyla güncellediniz.",
+        "password_changed": "Parolanız başarıyla değiştirildi."
     },
     "tooltips": {
-        "if_private_not_changeable": "This information cannot be changed as long as your account is private.",
-        "coming_soon_feat": "This feature is coming soon to Sci-Hook!",
-        "coming_soon_page": "This page is coming soon to Sci-Hook!",
+        "if_private_not_changeable": "Bu bilgi, hesabınız gizli olduğu sürece değiştirilemez.",
+        "coming_soon_feat": "Bu özellik çok yakında Sci-Hook'ta!",
+        "coming_soon_page": "Bu sayfa çok yakında Sci-Hook'ta!",
         "coming_soon": "Çok yakında!"
     },
     "dropdowns": {
         "logout": "Çıkış yap",
         "feedback": "Geri bildirim",
         "support_center": "Destek Merkezi",
-        "manage_account": "Manage account",
+        "manage_account": "Hesabını yönet",
         "site_theme": "Site Teması",
         "return_home": "Anasayfaya dön",
         "family_management": "Aile Yönetimi",
@@ -154,7 +154,7 @@
         "p_1": "Bilimetri",
         "p_2": "Meteorology Map",
         "p_3": "Brevurl",
-        "p_4": "Sci-Hook Games",
+        "p_4": "Sci-Hook Oyunlar",
         "p_5": "Plotrip"
     },
     "page_titles": {
@@ -162,17 +162,17 @@
         "mission": "Misyonumuz",
         "policies": "Politikalar",
         "register-1": "Sci-Hook Hesabınızı Oluşturun",
-        "register-2": "Setup Your Account",
-        "register-3": "Customize Your Profile",
+        "register-2": "Hesabını Oluştur",
+        "register-3": "Profilini Özelleştir",
         "login": "Hesabınıza Giriş Yapın",
         "account-management-center": "Hesap Yönetim Merkezi",
         "privacy-and-security": "Gizlilik ve Güvenlik",
         "account-settings": "Hesap Ayarları",
-        "main-mail-verification": "E-Mail Verification",
-        "verify-login": "Login Verification",
-        "change-email": "Change E-Mail Address",
-        "get-password-recovery-code": "Recover Your Account",
-        "verify-password-recovery": "Recover Your Account",
-        "change-unverified-email": "Change E-Mail Address"
+        "main-mail-verification": "E-Posta Onayı",
+        "verify-login": "Giriş Onayı",
+        "change-email": "E-Posta Adresinizi Değiştirin",
+        "get-password-recovery-code": "Hesabınızı Kurtarın",
+        "verify-password-recovery": "Hesabınızı Kurtarın",
+        "change-unverified-email": "E-Posta Adresinizi Değiştirin"
     }
 }
