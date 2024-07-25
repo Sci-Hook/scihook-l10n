@@ -1,12 +1,12 @@
 {
     "months": {
-        "m_1": "Ocak",
-        "m_2": "Şubat",
-        "m_3": "Mart",
-        "m_4": "Nisan",
-        "m_5": "Mayıs",
-        "m_6": "Haziran",
-        "m_7": "Temmuz",
+        "m_1": "January",
+        "m_2": "February",
+        "m_3": "March",
+        "m_4": "April",
+        "m_5": "May",
+        "m_6": "June",
+        "m_7": "July",
         "m_8": "August",
         "m_9": "September",
         "m_10": "October",
@@ -33,13 +33,14 @@
         "add_account": "Add your account",
         "connect_account": "Connect your account",
         "confirm": "Confirm",
-        "change_email": "E-Posta Adresini Değiştir",
-        "read_accept": "Okudum ve onaylıyorum",
+        "change_email": "Change E-Mail Address",
+        "read_accept": "I have read and accept",
         "return_legal_text": "Return to Legal Text",
         "next_step": "Continue to Next Step",
         "send_account_recovery_form": "Send Account Recovery Form",
         "upload_photo": "Upload photo",
-        "change_password": "Change Password"
+        "change_password": "Change Password",
+        "support_mission": "Support Our Mission"
     },
     "placeholders": {
         "optional": "(optional)",
@@ -155,5 +156,23 @@
         "p_3": "Brevurl",
         "p_4": "Sci-Hook Games",
         "p_5": "Plotrip"
+    },
+    "page_titles": {
+        "main": "Homepage",
+        "mission": "Our Mission",
+        "policies": "Policies",
+        "register-1": "Create Your Sci-Hook Account",
+        "register-2": "Setup Your Account",
+        "register-3": "Customize Your Profile",
+        "login": "Login to Your Account",
+        "account-management-center": "Account Management Center",
+        "privacy-and-security": "Privacy and Security",
+        "account-settings": "Account Settings",
+        "main-mail-verification": "E-Mail Verification",
+        "verify-login": "Login Verification",
+        "change-email": "Change E-Mail Address",
+        "get-password-recovery-code": "Recover Your Account",
+        "verify-password-recovery": "Recover Your Account",
+        "change-unverified-email": "Change E-Mail Address"
     }
 }
