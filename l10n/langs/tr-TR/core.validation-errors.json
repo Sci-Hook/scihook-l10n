@@ -61,12 +61,12 @@
         "not_match": "Parolalar birbiriyle eşleşmiyor. Lütfen kontrol ediniz."
     },
     "feedback_content": {
-        "undefined": "Feedback content can not be empty.",
-        "min_length": "Feedback content must be at least #{required} characters.",
-        "max_length": "Feedback content must be at most #{required} characters."
+        "undefined": "Geri bildirim içeriği boş bırakılamaz.",
+        "min_length": "Geri bildirim içeriği en az #{required} karakter olmalıdır.",
+        "max_length": "Geri bildirim içeriği en fazla #{required} karakter olabilir."
     },
     "feedback_topic": {
-        "undefined": "Please select a feedback topic.",
-        "values": "Please select feedback topic from the list."
+        "undefined": "Lütfen bir geri bildirim konusu seçin.",
+        "values": "Lütfen listeden bir geri bildirim konusu seçin."
     }
 }
