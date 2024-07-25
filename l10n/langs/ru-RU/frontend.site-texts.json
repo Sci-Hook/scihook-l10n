@@ -81,7 +81,8 @@
         "amc_30": "Account Management Center recommendation/feature",
         "amc_31": "Account Management Center bug",
         "amc_32": "Display or translation error",
-        "amc_33": "When you submit feedback, some of your Sci-Hook account information may be included in your feedback. Feedback is not a support service. If you would like assistance, please use the Support Center."
+        "amc_33": "When you submit feedback, some of your Sci-Hook account information may be included in your feedback. Feedback is not a support service. If you would like assistance, please use the Support Center.",
+        "amc_34": "Other"
     },
     "privacy_security": {
         "ps_1": "Account data and settings",

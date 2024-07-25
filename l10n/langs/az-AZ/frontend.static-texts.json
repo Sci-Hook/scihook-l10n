@@ -113,7 +113,8 @@
         "make_private_data": "You have made this information private. Other users can no longer see this information.",
         "failed_update_data": "Updating information failed.",
         "success_update_data": "You have successfully updated this information.",
-        "password_changed": "Your password has been changed successfully."
+        "password_changed": "Your password has been changed successfully.",
+        "feedback_sent": "Your feedback has been sent successfully. Thank you for your support! Our team will review your feedback as soon as possible."
     },
     "tooltips": {
         "if_private_not_changeable": "This information cannot be changed as long as your account is private.",

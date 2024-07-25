@@ -59,5 +59,14 @@
     },
     "verify-password": {
         "not_match": "Parolalar birbiriyle eşleşmiyor. Lütfen kontrol ediniz."
+    },
+    "feedback_content": {
+        "undefined": "Geri bildirim içeriği boş bırakılamaz.",
+        "min_length": "Geri bildirim içeriği en az #{required} karakter olmalıdır.",
+        "max_length": "Geri bildirim içeriği en fazla #{required} karakter olabilir."
+    },
+    "feedback_topic": {
+        "undefined": "Lütfen bir geri bildirim konusu seçin.",
+        "values": "Lütfen listeden bir geri bildirim konusu seçin."
     }
 }
