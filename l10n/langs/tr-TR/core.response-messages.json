@@ -1,9 +1,9 @@
 {
     "$variable-name": "response-messages",
-    "validation-error": "Please check the information you entered.",
-    "authorized": "Your token is valid.",
-    "success_register": "Your account successfully created.",
-    "user_found": "Account found.",
+    "validation-error": "Lütfen girdiğiniz bilgiyi kontrol edin.",
+    "authorized": "Token'ınız geçerli.",
+    "success_register": "Hesabınız başarıyla oluşturuldu.",
+    "user_found": "Hesap bulundu.",
     "login_success": "You are successfully logged in. Please check your e-mail address for verification.",
     "pass_change": "Password successfully changed.",
     "username_change": "Username successfully changed.",
