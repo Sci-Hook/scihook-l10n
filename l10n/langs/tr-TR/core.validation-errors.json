@@ -1,45 +1,45 @@
 {
     "$variable-name": "validation-errors",
     "username": {
-        "min_length": "Username must be at least #{required} characters.",
-        "max_length": "Username must be at most #{required} characters.",
-        "undefined": "Username can not be empty.",
-        "regex": "Username can only contain letters and numbers.",
-        "exist_data": "This username is already registered in the system."
+        "min_length": "Kullanıcı en az #{required} karakterden oluşmalıdır.",
+        "max_length": "Kullanıcı adı en fazla #{required} karakterden oluşabilir.",
+        "undefined": "Kullanıcı adı boş bırakılamaz.",
+        "regex": "Kullanıcı adı yalnızca harfler ve sayılar içerebilir.",
+        "exist_data": "Bu kullanıcı adı sistemde zaten kayıtlı."
     },
     "password": {
-        "min_length": "Password must be at least #{required} characters.",
-        "max_length": "Password must be at most #{required} characters.",
+        "min_length": "Parola en az #{required} karakter olabilir.",
+        "max_length": "Parola en fazla #{required} karakter olabilir.",
         "undefined": "Bir parola girmeniz gerekmektedir."
     },
     "email": {
         "undefined": "Bir e-posta adresi girmeniz gerekmektedir.",
-        "max_length": "E-mail address must be at most #{required} characters.",
-        "services": "This e-mail provider is not allowed on Sci-Hook. Please try to sign up with another e-mail provider.",
-        "invalid": "E-mail address format is incorrect. Please enter in a valid format.",
-        "exist_data": "This e-mail address is already in use. Please try another e-mail address."
+        "max_length": "E-posta adresi en fazla #{required} karakter olabilir.",
+        "services": "Bu e-posta sağlayıcısına Sci-Hook'ta izin verilmiyor. Lütfen başka bir e-posta sağlayıcısı ile kaydolmayı deneyin.",
+        "invalid": "E-posta adresi formatı hatalı. Lütfen geçerli formatta giriniz.",
+        "exist_data": "Bu e-posta adresi zaten kullanılıyor. Lütfen başka bir e-posta adresi deneyin."
     },
     "mailcode": {
-        "undefined": "You must enter the e-mail verification code.",
-        "length": "E-mail verification code must be #{required} characters."
+        "undefined": "E-posta onay kodunu girmelisiniz.",
+        "length": "E-posta onay kodu en fazla #{required} karakter olabilir."
     },
     "name": {
-        "min_length": "Name must be at least #{required} characters.",
-        "max_length": "Name must be at most #{required} characters.",
-        "undefined": "Name field can not be empty."
+        "min_length": "İsim en az #{required} karakter olmalıdır.",
+        "max_length": "İsim en fazla #{required} karakter olabilir.",
+        "undefined": "İsim bilgisi boş bırakılamaz."
     },
     "surname": {
-        "min_length": "Surname must be at least #{required} characters.",
-        "max_length": "Surname must be at most #{required} characters."
+        "min_length": "Soyad en az #{required} karakter olmalıdır.",
+        "max_length": "Soyad en fazla #{required} karakter olabilir."
     },
     "about": {
-        "max_length": "About me section must be at most #{required} characters."
+        "max_length": "Hakkımda kısmı en fazla #{required} karakter olabilir."
     },
     "school": {
-        "max_length": "School name must be at most #{required} characters."
+        "max_length": "Okul adı en fazla #{required} karakter olabilir."
     },
     "job": {
-        "max_length": "Job must be at most #{required} characters."
+        "max_length": "Meslek en fazla #{required} karakter olabilir."
     },
     "birhday": {
         "max_length": "Lütfen geçerli bir tarih giriniz.",
@@ -50,7 +50,7 @@
         "min_length": "Lütfen geçerli bir tarih giriniz.",
         "max_length": "Lütfen geçerli bir tarih giriniz.",
         "type": "Lütfen bir ay seçiniz.",
-        "values": "Please select a month from the list."
+        "values": "Lütfen listeden bir ay seçiniz."
     },
     "birthyear": {
         "min_length": "Lütfen geçerli bir tarih giriniz.",
