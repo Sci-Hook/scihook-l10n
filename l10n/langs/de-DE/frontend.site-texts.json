@@ -161,6 +161,7 @@
         "set_23": "<i class='fa-solid fa-circle-info'></i> Enter the new username you want to use for your account.",
         "set_24": "Change your e-mail address",
         "set_25": "<i class='fa-solid fa-circle-info'></i> After you enter your password and submit a request to change your email address, you will be sent to a new page to complete your process.",
+        "set_26": "You have not confirmed this e-mail address! Accounts with unconfirmed e-mail addresses will be permanently deleted within 7 days. Confirm your e-mail address so that your account is not deleted.",
         "orcid_text": "You can share your academic work with others by adding ORCID ID to your account.",
         "scholar_text": "You can share your academic work with others by adding your Scholar account.",
         "rg_text": "You can share your academic work with others by adding your ResearchGate account.",
@@ -219,13 +220,16 @@
     },
     "mission": {
         "mi_1": "Our Mission",
-        "mi_2": "Misyonumuz çok nettir: Bilimi herkes için, her zaman erişilebilir kılmak. Bilime erişimin herkesin hakkı olduğuna inanıyoruz ve bilimin, geleceği inşa etmek için tek yol olduğunu biliyoruz.",
+        "mi_2": "Our mission is very clear: To make science accessible to everyone, all the time. We believe that access to science is everyone's right and we know that science is the only way to build the future.",
         "mi_3": "Our vision",
-        "mi_4": "Bilimi daha fazla kişiye ulaştırabilmeyi, bilimsel projelerimizi dünya çapında yaygınlaştırabilmeyi ve bilimin gelişimine aktif olarak katkıda bulunabilmeyi hedefliyoruz.",
+        "mi_4": "We aim to bring science to more people, popularize our scientific projects worldwide and actively contribute to the development of science.",
         "mi_5": "Our strategy",
-        "mi_6": "Kullanıcıyı merkeze alıyoruz. Herkese erişebilmenin başında kullanıcı dostu olmak gerektiğine inanıyoruz. Kullanıcı ihtiyaçlarını analiz edip çalışmalarımızı bu doğrultuda şekillendiriyoruz.",
+        "mi_6": "We put the user at the center. We believe that being user-friendly is the first step to reaching everyone. We analyze user needs and shape our work accordingly.",
         "mi_7": "Who are we?",
-        "mi_8": "Biz, bilime ve teknolojiye gönül vermiş kişileriz. Sci-Hook, gönüllüler ile varlığını sürdürüyor ve gelişiyor."
+        "mi_8": "We are people who are dedicated to science and technology. Sci-Hook survives and thrives with volunteers. We are a team constantly striving to stick to our mission and achieve our vision."
+    },
+    "bands": {
+        "unverified_email": "You have not confirmed your e-mail address! Accounts with unconfirmed e-mail addresses will be permanently deleted within 7 days."
     },
     "date_of_birth_text": "Date of birth"
 }
