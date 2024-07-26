@@ -38,5 +38,6 @@
     "user_not_found": "User not found.",
     "rate_limit": "You have reached the rate limit. Please try again later.",
     "feedback_sent": "Feedback sent successfully.",
-    "tos_age": "You must be at least 13 years old to use our service."
+    "tos_age": "You must be at least 13 years old to use our service.",
+    "password_email": "Password or e-mail address you entered is incorrect. Please check."
 }
