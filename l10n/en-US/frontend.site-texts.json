@@ -41,7 +41,7 @@
     "login_page_1": {
         "lo_1": "Login to your Sci-Hook Account",
         "lo_2": "Log in to your account by entering your account details.",
-        "lo_3": "Sci-Hook hesabınız yok mu? Hesap<a class='scihook-link' href='/register'> oluşturun.</a>",
+        "lo_3": " Don't have a Sci-Hook account? <a class='scihook-link' href='/register'>Create</a> an account.",
         "lo_4": "Can't access your account? <a class='scihook-link' href='/recovery'>Recover your account.</a>"
     },
     "login_page_2": {
