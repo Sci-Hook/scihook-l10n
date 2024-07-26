@@ -1,4 +1,4 @@
 {
     "$variable": "errors",
-    "verify-password": "Passwords do not match. Please check."
+    "verify-password": "Parolalar birbiriyle eşleşmiyor. Lütfen kontrol ediniz."
 }
