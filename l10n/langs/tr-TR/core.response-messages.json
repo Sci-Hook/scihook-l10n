@@ -37,5 +37,6 @@
     "unauthorized": "Bu işlem için yetkili değilsiniz.",
     "user_not_found": "Kullanıcı bulunamadı.",
     "rate_limit": "İstek limitine ulaştınız. Lütfen daha sonra tekrar deneyin.",
-    "feedback_sent": "Geri bildirim başarıyla gönderildi."
+    "feedback_sent": "Geri bildirim başarıyla gönderildi.",
+    "tos_age": "You must be at least 13 years old to use our service."
 }
