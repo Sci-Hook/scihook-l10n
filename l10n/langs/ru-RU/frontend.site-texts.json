@@ -42,7 +42,7 @@
         "lo_1": "Login to your Sci-Hook Account",
         "lo_2": "Log in to your account by entering your account details.",
         "lo_3": "Sci-Hook hesabınız yok mu? Hesap<a class='scihook-link' href='/register'> oluşturun.</a>",
-        "lo_4": "Can't access your account? Recover your account<a class='scihook-link' href='/recovery'>.</a>"
+        "lo_4": "Can't access your account? <a class='scihook-link' href='/recovery'>Recover your account.</a>"
     },
     "login_page_2": {
         "lo_5": "Verify Your Login",
@@ -221,7 +221,7 @@
     },
     "mission": {
         "mi_1": "Our Mission",
-        "mi_2": "Our mission is very clear: To make science accessible to everyone, all the time. We believe that access to science is everyone's right and we know that science is the only way to build the future.",
+        "mi_2": "Our mission is very clear: To make science accessible to everyone, all the time.<br>We believe that access to science is everyone's right and we know that science is the only way to build the future.",
         "mi_3": "Our vision",
         "mi_4": "We aim to bring science to more people, popularize our scientific projects worldwide and actively contribute to the development of science.",
         "mi_5": "Our strategy",
