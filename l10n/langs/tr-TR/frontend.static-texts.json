@@ -176,6 +176,7 @@
         "change-email": "E-Posta Adresinizi Değiştirin",
         "get-password-recovery-code": "Hesabınızı Kurtarın",
         "verify-password-recovery": "Hesabınızı Kurtarın",
-        "change-unverified-email": "E-Posta Adresinizi Değiştirin"
+        "change-unverified-email": "E-Posta Adresinizi Değiştirin",
+        "policy-article": "Politika"
     }
 }

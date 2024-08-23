@@ -176,6 +176,7 @@
         "change-email": "Change E-Mail Address",
         "get-password-recovery-code": "Recover Your Account",
         "verify-password-recovery": "Recover Your Account",
-        "change-unverified-email": "Change E-Mail Address"
+        "change-unverified-email": "Change E-Mail Address",
+        "policy-article": "Policy"
     }
 }
