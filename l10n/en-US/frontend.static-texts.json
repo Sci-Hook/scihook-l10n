@@ -40,7 +40,8 @@
         "send_account_recovery_form": "Send Account Recovery Form",
         "upload_photo": "Upload photo",
         "change_password": "Change Password",
-        "support_mission": "Support Our Mission"
+        "support_mission": "Support Our Mission",
+        "delete": "Delete"
     },
     "placeholders": {
         "optional": "(optional)",

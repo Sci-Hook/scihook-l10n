@@ -46,7 +46,7 @@
     },
     "login_page_2": {
         "lo_5": "Verify Your Login",
-        "lo_6": "Enter the code sent to your e-mail address."
+        "lo_6": "Enter the code sent to your email address."
     },
     "account_management_center": {
         "amc_1": "Account history",
@@ -82,7 +82,12 @@
         "amc_31": "Account Management Center bug",
         "amc_32": "Display or translation error",
         "amc_33": "When you submit feedback, some of your Sci-Hook account information may be included in your feedback. Feedback is not a support service. If you would like assistance, please use the Support Center.",
-        "amc_34": "Other"
+        "amc_34": "Other",
+        "amc_35": "Once you delete this email address, the action cannot be undone. To add the same email address again, you will need to repeat the email verification process.",
+        "amc_36": "Are You Sure You Want to Delete the Email?",
+        "amc_37": "You cannot add more than 5 email addresses to your account.",
+        "amc_38": "You have not added an email address yet",
+        "amc_39": "You can add additional email addresses for communication purposes and link your personal social media accounts to your Sci-Hook account."
     },
     "privacy_security": {
         "ps_1": "Account data and settings",
@@ -92,12 +97,12 @@
         "ps_5": "All session logs",
         "ps_6": "Personal data",
         "ps_7": "Privacy and security data",
-        "ps_8": "Your account data will be sent to your main account e-mail address. The compilation of your data will be completed and sent to you within 30 days at the latest.",
+        "ps_8": "Your account data will be sent to your main account email address. The compilation of your data will be completed and sent to you within 30 days at the latest.",
         "ps_9": "Privacy and Security Center",
         "ps_10": "Account recovery",
         "ps_11": "You can view and configure additional settings to recover your account in case you lose it.",
-        "ps_12": "Set a recovery e-mail",
-        "ps_13": "This is the e-mail address to which a password reset will be sent to recover your account in case you lose the e-mail address you used to register with Sci-Hook. If you do not set a recovery e-mail, you will need to use the Account Recovery Program (if not deactivated).",
+        "ps_12": "Set a recovery email",
+        "ps_13": "This is the email address to which a password reset will be sent to recover your account in case you lose the email address you used to register with Sci-Hook. If you do not set a recovery email, you will need to use the Account Recovery Program (if not deactivated).",
         "ps_14": "Recovery code settings",
         "ps_15": "Recovery codes are very helpful in proving that your account belongs to you in case you lose it. Recovery codes consist of 16 codes in total. You can only use the codes if you have the Account Recovery Program open.",
         "ps_16": "Activate Account Recovery Program",
@@ -142,8 +147,8 @@
         "set_3": "Your username will be visible to everyone if you make your account \"public\".",
         "set_4": "Your username will be visible to everyone if you make your account \"public\".",
         "set_5": "We will use your name to address you. Also, if you make your account public, it will be visible to everyone.",
-        "set_6": "Your e-mail address linked to your account must always be \"private\" for security and privacy purposes.",
-        "set_7": "It is your e-mail address linked to your account. We will contact you via this e-mail address.",
+        "set_6": "Your email address linked to your account must always be \"private\" for security and privacy purposes.",
+        "set_7": "It is your email address linked to your account. We will contact you via this email address.",
         "set_8": "Account privacy:",
         "set_9": "You can update your account information, add new information and delete it. You are free to personalize your account!",
         "set_10": "It is your surname written on your ID. If you enter this information, we will use your surname when addressing you.",
@@ -155,14 +160,14 @@
         "set_16": "You can enter information about yourself that you want to share with other users.",
         "set_17": "You can enter the address of your region of residence. It can be used for billing and address verification purposes.",
         "set_18": "You can enter the address of a personal (or linked to you) website.",
-        "set_19": "You can enter your e-mail address so that others can contact you. From the drop-down panel, you can select an email address that you have already added.",
+        "set_19": "You can enter your email address so that others can contact you. From the drop-down panel, you can select an email address that you have already added.",
         "set_20": "Change your account privacy",
         "set_21": "<i class='fa-solid fa-circle-info'></i> You can change the privacy settings of your account by entering your account password. You can change this setting up to 5 times in a month.",
         "set_22": "Change your username",
         "set_23": "<i class='fa-solid fa-circle-info'></i> Enter the new username you want to use for your account.",
-        "set_24": "Change your e-mail address",
+        "set_24": "Change your email address",
         "set_25": "<i class='fa-solid fa-circle-info'></i> After you enter your password and submit a request to change your email address, you will be sent to a new page to complete your process.",
-        "set_26": "You have not confirmed this e-mail address! Accounts with unconfirmed e-mail addresses will be permanently deleted within 7 days. Confirm your e-mail address so that your account is not deleted.",
+        "set_26": "You have not confirmed this email address! Accounts with unconfirmed email addresses will be permanently deleted within 7 days. Confirm your email address so that your account is not deleted.",
         "orcid_text": "You can share your academic work with others by adding ORCID ID to your account.",
         "scholar_text": "You can share your academic work with others by adding your Scholar account.",
         "rg_text": "You can share your academic work with others by adding your ResearchGate account.",
@@ -179,29 +184,29 @@
         "instagram_text": "By adding your Instagram account, you are verifying that your Instagram account belongs to you."
     },
     "email_verification": {
-        "ev_1": "Verify Your E-Mail Address",
-        "ev_2": "Confirm that your e-mail address is yours."
+        "ev_1": "Verify Your Email Address",
+        "ev_2": "Confirm that your email address is yours."
     },
     "email_change": {
-        "ec_1": "Change Your E-Mail Address",
-        "ec_2": "Enter your new e-mail address and change the e-mail address linked to your account.",
-        "ec_3": "New e-mail address",
-        "ec_4": "Enter the new e-mail address you want to use for your account.",
-        "ec_5": "E-mail verification code",
-        "ec_6": "Enter the verification code received at your current e-mail address and confirm the process."
+        "ec_1": "Change Your Email Address",
+        "ec_2": "Enter your new email address and change the email address linked to your account.",
+        "ec_3": "New email address",
+        "ec_4": "Enter the new email address you want to use for your account.",
+        "ec_5": "Email verification code",
+        "ec_6": "Enter the verification code received at your current email address and confirm the process."
     },
     "password_recovery": {
         "pr_1": "Reset Your Password",
-        "pr_2": "Enter the code you received in your e-mail and set a new password.",
-        "pr_3": "Enter the verification code sent to the e-mail address linked to your account."
+        "pr_2": "Enter the code you received in your email and set a new password.",
+        "pr_3": "Enter the verification code sent to the email address linked to your account."
     },
     "change_unverified_email": {
-        "cue_1": "Change Your E-Mail Address",
-        "cue_2": "Change and verify your incorrectly entered e-mail address."
+        "cue_1": "Change Your Email Address",
+        "cue_2": "Change and verify your incorrectly entered email address."
     },
     "get_password_recovery": {
-        "gpr_1": "Search Your E-Mail Address",
-        "gpr_2": "Enter the e-mail you used to register so we can send you a verification code."
+        "gpr_1": "Search Your Email Address",
+        "gpr_2": "Enter the email you used to register so we can send you a verification code."
     },
     "policies_page": {
         "archive_title": "<i class='fa-solid fa-scale-balanced'></i> This Version is Repealed, This is an Archive Record!",
@@ -230,7 +235,7 @@
         "mi_8": "We are people who are dedicated to science and technology. Sci-Hook survives and thrives with volunteers. We are a team constantly striving to stick to our mission and achieve our vision."
     },
     "bands": {
-        "unverified_email": "You have not confirmed your e-mail address! Accounts with unconfirmed e-mail addresses will be permanently deleted within 7 days."
+        "unverified_email": "You have not confirmed your email address! Accounts with unconfirmed email addresses will be permanently deleted within 7 days."
     },
     "date_of_birth_text": "Date of birth"
 }

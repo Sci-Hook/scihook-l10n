@@ -42,7 +42,7 @@
         "lo_1": "Sci-Hook Hesabınıza Giriş Yapın",
         "lo_2": "Hesap bilgilerinizi girerek hesabınıza giriş yapın.",
         "lo_3": "Sci-Hook hesabınız yok mu? Hesap<a class='scihook-link' href='/register'> oluşturun.</a>",
-        "lo_4": "Hesabınıza erişemiyor musunuz? Hesabınızı<a class='scihook-link' href='/recovery'> kutarın.</a>"
+        "lo_4": "Hesabınıza erişemiyor musunuz? Hesabınızı<a class='scihook-link' href='/recovery'> kurtarın.</a>"
     },
     "login_page_2": {
         "lo_5": "Girişinizi Doğrulayın",
@@ -82,7 +82,12 @@
         "amc_31": "Hesap Yönetim Merkezi hatası",
         "amc_32": "Görünüm veya çeviri hatası",
         "amc_33": "Geri bildirimi gönderdiğinizde bazı Sci-Hook hesap bilgileriniz geri bildiriminize eklenebilir. Geri bildirim, bir yardım servisi değildir. Eğer yardım almak istiyorsanız lütfen Yardım Merkezi'ni kullanınız.",
-        "amc_34": "Diğer"
+        "amc_34": "Diğer",
+        "amc_35": "Bu e-posta adresini sildikten sonra işlemi geri alamazsınız. Aynı e-posta adresini tekrar eklemek için e-posta doğrulama işlemlerini tekrarlamanız gerekmektedir.",
+        "amc_36": "E-Postayı Silmek İstediğinize Emin misiniz?",
+        "amc_37": "Hesabınıza 5'ten daha fazla e-posta adresi ekleyemezsiniz.",
+        "amc_38": "Henüz bir e-posta adresi eklemediniz",
+        "amc_39": "Sci-Hook hesabınıza iletişim amaçlı ek e-posta adresleri ekleyebilir ve kişisel sosyal medya hesaplarınızı ekleyebilirsiniz."
     },
     "privacy_security": {
         "ps_1": "Hesap verileriniz ve ayarlar",

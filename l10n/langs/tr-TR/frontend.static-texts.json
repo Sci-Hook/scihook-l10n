@@ -40,7 +40,8 @@
         "send_account_recovery_form": "Hesap Kurtarma Formunu Gönder",
         "upload_photo": "Fotoğraf yükle",
         "change_password": "Parolayı Değiştir",
-        "support_mission": "Misyonumuzu Destekleyin"
+        "support_mission": "Misyonumuzu Destekleyin",
+        "delete": "Sil"
     },
     "placeholders": {
         "optional": "(isteğe bağlı)",
